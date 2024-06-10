@@ -1,0 +1,5 @@
+com/example/demo/controller/RestController.class
+com/example/demo/DemoApplication.class
+com/example/demo/model/QItem.class
+com/example/demo/ServletInitializer.class
+com/example/demo/services/PathService.class
